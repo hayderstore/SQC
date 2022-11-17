@@ -3,3 +3,5 @@ you can go to file explorer and go to DB or sqlite file and click on open with a
 files!
 ![Capture](https://user-images.githubusercontent.com/114856418/201322774-ac90bdba-bda7-4aee-9f3a-667eb35c02e0.PNG)
 ![Capture1](https://user-images.githubusercontent.com/114856418/201323179-f56f8f9b-b9e4-4ce5-b45f-457d8332105b.PNG)
+if you want use it at phone you can download and use ExaGear app
+note: I not maker of ExaGear
